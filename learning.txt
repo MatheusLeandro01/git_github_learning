@@ -1,0 +1,8 @@
+### Comandos ###
+
+git status
+git add
+git commit -a -m '' -> commit
+git push -> enviar para o github
+git pull -> atualizar
+git rm -> remover
