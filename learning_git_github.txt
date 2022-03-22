@@ -8,3 +8,4 @@ git pull -> atualizar
 git rm -> remover
 git log -> Serve para acessar um histórico de modificações feitas no projeto.
 git mv -> Serve tanto para mover quanto para renomear.
+git checkout -> O arquivo modificado volta ao seu estado original.
