@@ -6,4 +6,5 @@ git commit -a -m '' -> commit
 git push -> enviar para o github
 git pull -> atualizar
 git rm -> remover
-git log -> Serve para acessar um histórico de modificações feitas no projeto
+git log -> Serve para acessar um histórico de modificações feitas no projeto.
+git mv -> Serve tanto para mover quanto para renomear.
