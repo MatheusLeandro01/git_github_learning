@@ -13,3 +13,5 @@ git checkout -> O arquivo modificado volta ao seu estado original.
 .gitignore -> é um arquivo localizado na raiz do projeto -> podemos inserir todos arquivos
 que não devem entrar no versionamento -> é útil para arquivos gerados automaticamente
 ou arquivos que contêm informações sensíveis;
+
+git reset --hard origin/master -> todas as alterações commitadas e também pendentes serão excluídas.
